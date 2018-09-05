@@ -1,3 +1,1 @@
-# Learning-XOR-operator
-# Learning-XOR-operator
-# Prediction-using-BayesianNetwork
+# Content-based-Image-Retrieval
